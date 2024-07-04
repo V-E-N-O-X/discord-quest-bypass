@@ -1,7 +1,8 @@
 ### Discord Quest Bypass Code!
 <br>
 
-```jslet wpRequire;
+```javascript
+let wpRequire;
 window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => { wpRequire = req; }]);
 
 let ApplicationStreamingStore, RunningGameStore, QuestsStore, ExperimentStore, FluxDispatcher, api;
